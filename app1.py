@@ -30,7 +30,7 @@ st.title("ChatGroq Demo")
 # groq_api_key = os.environ['GROQ_API_KEY']
 
 # Initialize the ChatGroq model
-llm = ChatGroq(groq_api_key="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",
+llm = ChatGroq(groq_api_key="yoy key",
              model_name="mixtral-8x7b-32768")
 
 # Define the prompt template for generating answers based on context
